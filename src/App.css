@@ -1,0 +1,13 @@
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+.box1{
+  width: 25%;
+  padding: 15px;
+}
